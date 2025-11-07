@@ -78,3 +78,4 @@ while running:
                     selected = (row, col)
 
 pygame.quit()
+# --- End of the Chess Game Code ---
